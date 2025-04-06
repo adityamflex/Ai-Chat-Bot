@@ -37,7 +37,7 @@ Whether you're building a personal website, a portfolio, or a fun side project �
 
 > You can host the chatbot on GitHub Pages, Netlify, or Vercel for free.
 
-[🔗 Demo Link (optional)](https://your-live-site-link.com)
+[🔗 Demo Link (optional)](http://127.0.0.1:5500/index.html)
 
 ---
 
